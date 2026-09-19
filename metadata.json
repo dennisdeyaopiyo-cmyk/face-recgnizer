@@ -1,0 +1,6 @@
+{
+  "name": "Phase Verification Platform",
+  "description": "An end-to-end engineering Phase Verification Platform for Stage-Gate lifecycle validation, electrical 3-phase signal analysis, biometric face recognition ID verification, and automated AI gate verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
